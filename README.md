@@ -8,7 +8,6 @@
 
 ## :pushpin: Contact
 - Email: serha95@naver.com
-- Phone: 010-2217-9753
 - GitHub: https://github.com/Seoha95
 
 </br>
@@ -25,7 +24,6 @@
 >[프로젝트 상세 설명]() 참고
 
 ---
-
 
 ### 2. [marguerite]()
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)
