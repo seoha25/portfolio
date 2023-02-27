@@ -1,10 +1,10 @@
 # 이서하 포트폴리오
->개발자
+>새로운 것을 학습하는데 두려움이 없는 개발자, 이서하입니다.
 
 </br>
 
 ## :pushpin: Intro
-(자기소개)
+
 
 ## :pushpin: Contact
 - Email: serha95@naver.com
