@@ -24,33 +24,33 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [mealtime](https://github.com/Seoha95/mealtime.git)
->음식 추천 프로그램 (팀 프로젝트)
->개발 기간: 2022.9.13 ~ 2022.9.19
->
-기술 스택:
->>Java 11 / Oracle
->
->[프로젝트 상세 설명](https://github.com/Seoha95/mealtime.git) 참고
-
----
-
-### 2. [marguerite](https://github.com/Seoha95/marguerite.git)
->marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)
->개발 기간: 2023.01.02 ~ 2023.01.31
->
->기술 스택:
->Java 11 / JavaScript / css / Jsp / Ajax / Oracle
->
->[프로젝트 상세 설명](https://github.com/Seoha95/marguerite.git) 참고
-
----
-
-### 2. [kajahotel](https://github.com/Seoha95/kajahotel.git)
->marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)
->개발 기간: 2022.12.28 ~ 2023.01.06
->
->기술 스택:
->Java 11 / Spring Framework / JavaScript / css / Jsp / Ajax / Oracle / 아임포트 결제 API / KAKAO 지도API
->
->[프로젝트 상세 설명](https://github.com/Seoha95/kajahotel.git) 참고
+### 1. [mealtime](https://github.com/Seoha95/mealtime.git)   
+>음식 추천 프로그램 (팀 프로젝트)   
+>개발 기간: 2022.9.13 ~ 2022.9.19   
+>   
+>기술 스택:   
+>Java 11 / Oracle   
+>   
+>[프로젝트 상세 설명](https://github.com/Seoha95/mealtime.git) 참고   
+   
+---   
+   
+### 2. [marguerite](https://github.com/Seoha95/marguerite.git)   
+>marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
+>개발 기간: 2023.01.02 ~ 2023.01.31   
+>   
+>기술 스택:   
+>Java 11 / JavaScript / css / Jsp / Ajax / Oracle   
+>   
+>[프로젝트 상세 설명](https://github.com/Seoha95/marguerite.git) 참고   
+   
+---   
+   
+### 2. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
+>marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
+>개발 기간: 2022.12.28 ~ 2023.01.06   
+>   
+>기술 스택:   
+>Java 11 / Spring Framework / JavaScript / css / Jsp / Ajax / Oracle / 아임포트 결제 API / KAKAO 지도API   
+>   
+>[프로젝트 상세 설명](https://github.com/Seoha95/kajahotel.git) 참고   
