@@ -37,7 +37,7 @@
    
 ### 2. [marguerite](https://github.com/Seoha95/marguerite.git)   
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
->개발 기간: 2023.01.02 ~ 2023.01.31   
+>개발 기간: 2023.02.13 ~ 2023.03.04   
 >   
 >기술 스택:   
 >Java 11 / JavaScript / css / Jsp / Ajax / Oracle   
