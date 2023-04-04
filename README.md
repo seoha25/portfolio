@@ -47,7 +47,7 @@
 ---   
    
 ### 2. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
->marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
+>marguerite 호텔 예약 사이트 (팀 프로젝트)   
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
 >기술 스택:   
