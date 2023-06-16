@@ -24,7 +24,18 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [mealtime](https://github.com/Seoha95/mealtime.git)   
+### 2. [lblog](https://github.com/Seoha95/mealtime.git)   
+>음식 추천 프로그램 (팀 프로젝트)   
+>개발 기간: 2022.9.13 ~ 2022.9.19   
+>   
+>기술 스택:   
+>Java 11 / Oracle   
+>   
+>[프로젝트 상세 설명](https://github.com/Seoha95/mealtime.git) 참고   
+   
+---   
+## :pushpin: Projects
+### 2. [mealtime](https://github.com/Seoha95/mealtime.git)   
 >음식 추천 프로그램 (팀 프로젝트)   
 >개발 기간: 2022.9.13 ~ 2022.9.19   
 >   
@@ -35,7 +46,7 @@
    
 ---   
    
-### 2. [marguerite](https://github.com/Seoha95/marguerite.git)   
+### 3. [marguerite](https://github.com/Seoha95/marguerite.git)   
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
 >개발 기간: 2023.02.13 ~ 2023.03.04   
 >   
@@ -46,7 +57,7 @@
    
 ---   
    
-### 2. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
+### 4. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
 >marguerite 호텔 예약 사이트 (팀 프로젝트)   
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
