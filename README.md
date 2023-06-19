@@ -38,7 +38,7 @@
 ### 2. [mealtime](https://github.com/Seoha95/mealtime.git)   
 >음식 추천 프로그램 (팀 프로젝트)   
 >개발 기간: 2022.9.13 ~ 2022.9.19   
->   
+>       
 >기술 스택:   
 >Java 11 / Oracle   
 >   
