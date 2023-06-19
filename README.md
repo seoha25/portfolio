@@ -1,5 +1,5 @@
 # 이서하 포트폴리오
->지속적으로 발전하는 개발자, 이서하입니다.
+>코드로 아이디어를 현실로 만드는 개발자   
 
 </br>
 
@@ -26,12 +26,12 @@
 
 ### 1. [lblog](https://github.com/Seoha95/lblog.git)   
 >음식 추천 프로그램 (팀 프로젝트)   
->개발 기간: 2022.9.13 ~ 2022.9.19   
+>개발 기간: 2023.6.5 ~ 2023.6.16   
 >   
 >기술 스택:   
->Java 11 / Oracle   
+>Java 11 / MySQL / Ajax / JavaScript / CSS / Spring MVC / Summernote   
 >   
->[프로젝트 상세 설명](https://github.com/Seoha95/mealtime.git) 참고   
+>[프로젝트 상세 설명](https://github.com/Seoha95/lblog.git) 참고   
    
 ---   
 ## :pushpin: Projects
@@ -51,7 +51,7 @@
 >개발 기간: 2023.02.13 ~ 2023.03.04   
 >   
 >기술 스택:   
->Java 11 / JavaScript / css / Jsp / Ajax / Oracle   
+>Java 11 / JavaScript / css / Jsp / Ajax / Oracle / 아임포트 결제 API   
 >   
 >[프로젝트 상세 설명](https://github.com/Seoha95/marguerite.git) 참고   
    
@@ -62,6 +62,6 @@
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
 >기술 스택:   
->Java 11 / Spring Framework / JavaScript / css / Jsp / Ajax / Oracle / 아임포트 결제 API / KAKAO 지도API   
+>Java 11 / Spring MVC / JavaScript / css / Jsp / Ajax / Oracle / 아임포트 결제 API / KAKAO 지도API   
 >   
 >[프로젝트 상세 설명](https://github.com/Seoha95/kajahotel.git) 참고   
