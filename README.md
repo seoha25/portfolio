@@ -24,7 +24,7 @@
 ## :pushpin: Projects   
 ### 1. [lblog](https://github.com/Seoha95/lblog.git)   
 >블로그 사이트 (개인 프로젝트)   
->개발 기간: 2023.6.5 ~ 2023.6.16   
+>개발 기간: 2023.06.05 ~ 2023.06.16   
 >   
 >기술 스택:   
 >Java 11 / MySQL / Ajax / JavaScript / CSS / Spring MVC / Summernote   
@@ -35,7 +35,7 @@
 
 ### 2. [mealtime](https://github.com/Seoha95/mealtime.git)   
 >음식 추천 프로그램 (팀 프로젝트)   
->개발 기간: 2022.9.13 ~ 2022.9.19   
+>개발 기간: 2022.09.13 ~ 2022.09.19   
 >       
 >기술 스택:   
 >Java 11 / Oracle   
