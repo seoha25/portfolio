@@ -29,8 +29,8 @@
 >기술 스택:   
 >Java17 / MySql / Spring Boot /Spring Security / JWT / Spring Data Jpa    
 >
->[프론트엔드 프로젝트 상세 설명](https://github.com/kimnya/ourblog.git)   
->[백엔드 프로젝트 상세 설명](https://github.com/Seoha95/ourblog.git)      
+>[프론트엔드 프로젝트 상세](https://github.com/kimnya/ourblog.git)   
+>[백엔드 프로젝트 상세](https://github.com/Seoha95/ourblog.git)      
 
 ---     
 
