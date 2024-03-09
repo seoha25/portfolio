@@ -29,8 +29,9 @@
 >기술 스택:   
 >Java17 / MySql / Spring Boot /Spring Security / JWT / Spring Data Jpa    
 >
+>나의 깃허브 : [backend-Repository](https://github.com/Seoha95/ourblog.git)    
 >팀원의 깃허브 : [frontend-Repository](https://github.com/kimnya/ourblog.git)   
->나의 깃허브 : [backend-Repository](https://github.com/Seoha95/ourblog.git)      
+     
 
 ---     
 
