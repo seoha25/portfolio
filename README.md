@@ -23,19 +23,19 @@
 
 ## :pushpin: Projects   
 ### 1. [ourblog](https://github.com/Seoha95/ourblog.git)    
->블로그 사이트 (협업 프로젝트)    
+>ourblg 블로그 사이트 (팀 프로젝트)    
 >개발 기간: 2024.01.01 ~ 2024.02.09    
 >
 >기술 스택:   
 >Java17 / MySql / Spring Boot /Spring Security / JWT / Spring Data Jpa    
 >
->[프론트엔드 프로젝트 상세](https://github.com/kimnya/ourblog.git)   
->[백엔드 프로젝트 상세](https://github.com/Seoha95/ourblog.git)      
+>팀원의 깃허브 : [프론트엔드 프로젝트 상세](https://github.com/kimnya/ourblog.git)   
+>나의 깃허브 : [백엔드 프로젝트 상세](https://github.com/Seoha95/ourblog.git)      
 
 ---     
 
 ### 2. [lblog](https://github.com/Seoha95/lblog.git)   
->블로그 사이트 (개인 프로젝트)   
+>lbog 블로그 사이트 (개인 프로젝트)   
 >개발 기간: 2023.06.05 ~ 2023.06.16   
 >   
 >기술 스택:   
@@ -57,7 +57,7 @@
 ---   
    
 ### 4. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
->marguerite 호텔 예약 사이트 (팀 프로젝트)   
+>kajahotel 호텔 예약 사이트 (팀 프로젝트)   
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
 >기술 스택:   
