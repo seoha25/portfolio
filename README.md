@@ -8,7 +8,7 @@
 발생한 오류를 해결하기 위해 문제 해결 방법을 기록하고, 비슷한 문제가 발생할 때 이 기록을 참고하여 신속하게 해결하는 경험이 있습니다.          
                     
 쇼핑몰 사이트를 제작할 때 첫 화면에 신상품과 인기상품 이미지를 가져오는 과정에서 어려움이 있었지만 끝까지 포기하지 않고 구현하는데       
-성공한 경험이 있습니다. 또한, 제가 지금까지 사용해왔던 Oracle과는 다른 데이터베이스 시스템인 MySQL을 습득하고 적용해보기 위해        
+성공한 경험이 있습니다. 또한, 제가 지금까지 사용해왔던 Oracle과는 다른 데이터베이스 시스템인 MySQL을 습득하고 적용해보기 위해           
 블로그 사이트를 구현하였습니다.   
 
 
@@ -43,20 +43,9 @@
 >   
 >[프로젝트 상세 설명](https://github.com/Seoha95/lblog.git) 참고   
    
----   
-
-### 3. [mealtime](https://github.com/Seoha95/mealtime.git)   
->음식 추천 프로그램 (팀 프로젝트)   
->개발 기간: 2022.09.13 ~ 2022.09.19   
->       
->기술 스택:   
->Java 11 / Oracle   
->   
->[프로젝트 상세 설명](https://github.com/Seoha95/mealtime.git) 참고   
+---    
    
----   
-   
-### 4. [marguerite](https://github.com/Seoha95/marguerite.git)   
+### 3. [marguerite](https://github.com/Seoha95/marguerite.git)   
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
 >개발 기간: 2023.02.13 ~ 2023.03.04   
 >   
@@ -67,7 +56,7 @@
    
 ---   
    
-### 5. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
+### 4. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
 >marguerite 호텔 예약 사이트 (팀 프로젝트)   
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
