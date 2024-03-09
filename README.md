@@ -24,7 +24,7 @@
 ## :pushpin: Projects   
 ### 1. [ourblog](https://github.com/Seoha95/ourblog.git)    
 >블로그 사이트 (협업 프로젝트)    
->개발 기간: 2024.01.01 ~ 2024.02.07    
+>개발 기간: 2024.01.01 ~ 2024.02.09    
 >
 >기술 스택:   
 >Java17 / MySql / Spring Boot /Spring Security / JWT / Spring Data Jpa    
