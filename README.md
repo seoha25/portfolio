@@ -10,13 +10,12 @@
 
 
 ## :pushpin: Contact
-- Email: serha95@naver.com
-- GitHub: https://github.com/Seoha95
+- GitHub: https://github.com/seoha25
 
 </br>
 
 ## :pushpin: Projects   
-### 1. [ourblog](https://github.com/Seoha95/ourblog.git)    
+### 1. [ourblog](https://github.com/seoha25/ourblog.git)    
 >ourblg 블로그 사이트 (팀 프로젝트)    
 >개발 기간: 2024.01.01 ~ 2024.02.09    
 >
@@ -29,7 +28,7 @@
 
 ---     
 
-### 2. [lblog](https://github.com/Seoha95/lblog.git)   
+### 2. [lblog](https://github.com/seoha25/lblog.git)   
 >lbog 블로그 사이트 (개인 프로젝트)   
 >개발 기간: 2023.06.05 ~ 2023.06.16   
 >   
@@ -40,7 +39,7 @@
    
 ---    
    
-### 3. [marguerite](https://github.com/Seoha95/marguerite.git)   
+### 3. [marguerite](https://github.com/seoha25/marguerite.git)   
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
 >개발 기간: 2023.02.13 ~ 2023.03.04   
 >   
@@ -51,7 +50,7 @@
    
 ---   
    
-### 4. [kajahotel](https://github.com/Seoha95/kajahotel.git)   
+### 4. [kajahotel](https://github.com/seoha25/kajahotel.git)   
 >kajahotel 호텔 예약 사이트 (팀 프로젝트)   
 >개발 기간: 2022.12.28 ~ 2023.01.06   
 >   
