@@ -15,6 +15,30 @@
 </br>
 
 ## :pushpin: Projects   
+### 1. Zoop
+>Zoop은 AI 기반 부동산 매물 추천 웹 & 모바일 서비스 (팀 프로젝트)    
+>개발 기간: 2025.04.28 ~ 2025.06.27    
+>
+>기술 스택:   
+>Java17 / PostgreSQL / Spring Boot /Spring Security / JWT / JPA / AWS    
+>
+>[프로젝트 상세 설명](https://github.com/seoha25/zoop.git) 참고   
+     
+
+---   
+
+### 2. [TrustRide_AI](https://github.com/seoha25/TrustRide_AI.git)    
+>TrustRide_AI AI로 중고차를 추천하고 시세를 제공하는 서비스 (팀 프로젝트)    
+>개발 기간: 2025.03.17 ~ 2025.04.25  
+>
+>기술 스택:   
+>Java11 / MySql / Spring Framework /Spring Security / MyBatis 
+>
+>[프로젝트 상세 설명](https://github.com/seoha25/TrustRide_AI.git) 참고   
+     
+
+---   
+
 ### 1. [ourblog](https://github.com/seoha25/ourblog.git)    
 >ourblg 블로그 사이트 (팀 프로젝트)    
 >개발 기간: 2024.01.01 ~ 2024.02.09    
